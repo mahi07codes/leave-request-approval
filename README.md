@@ -6,7 +6,7 @@ Built as an interview project using Power Apps, Microsoft Dataverse, Power Autom
 
 ## Demo and deliverables
 
-**Demo video:** https://drive.google.com/file/d/1VtuCscGvnATtVJaI8g19H8QTrSCjG-tk/view?usp=drivesdk
+**Demo video:** https://drive.google.com/file/d/1B8nhygG616fjBg6FVfOP56JwwJ3BUC9b/view?usp=drivesdk
 
 The recorded demonstration follows one request through submission, manager approval, HR approval, balance updates, and calendar synchronization. Screenshots document the application and workflow results.
 
